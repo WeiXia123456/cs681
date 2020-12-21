@@ -1,0 +1,2 @@
+Add AtomicBoolean of changed.
+Add ReentrantLock to guard shared variable linked list observers.
